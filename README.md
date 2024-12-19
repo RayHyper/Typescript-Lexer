@@ -1,3 +1,22 @@
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/RayHyper/Typescript-Lexer.git
+```
+
+Go to the project directory
+
+```bash
+  cd Typescript-Lexer
+```
+
+```bash
+   deno run lexer.ts
+```
+
+
 ## Usage
 
 The lexer reads input from a text file and outputs the tokens.
